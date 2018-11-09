@@ -1,0 +1,22 @@
+{
+  "name": "zippor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdielPerez20/zippor-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdielPerez20/zippor-Test/issues"
+  },
+  "homepage": "https://github.com/AdielPerez20/zippor-Test#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
